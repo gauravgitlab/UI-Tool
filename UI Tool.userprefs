@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GauravUI/Editor/UIWindow.cs">
+    <Files>
+      <File FileName="Assets/GauravUI/Editor/UIWindow.cs" Line="14" Column="18" />
+      <File FileName="Assets/GauravUI/Editor/UIWindowMethods.cs" Line="20" Column="2" />
+      <File FileName="Assets/GauravUI/Script/UIInformation.cs" Line="1" Column="1" />
+      <File FileName="Assets/GauravUI/Script/TextReader.cs" Line="36" Column="50" />
+      <File FileName="Assets/GauravUI/Script/CPanel.cs" Line="44" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

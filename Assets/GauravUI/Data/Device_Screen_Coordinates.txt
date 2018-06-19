@@ -1,0 +1,10 @@
+#LayerName,Left,Top,Right,Bottom
+BR_imgButton_buttonwithtext,540,864,640,960
+BC_imgButton_text,271,864,371,960
+BL_imgButton_button,0,864,100,960
+CR_imgButton_button,540,394,640,490
+CC_imgButton_button,271,394,371,490
+CL_imgButton_button,0,393,100,489
+TR_imgButton_button,540,0,640,96
+TC_imgButton_button,271,-1,371,95
+TL_imgButton_button,0,0,100,96
